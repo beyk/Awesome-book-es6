@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://beyk.github.io/AwesomeBook/)
+[Live Demo Link](https://beyk.github.io/Awesome-book-es6/)
 
 ## Built With
 
